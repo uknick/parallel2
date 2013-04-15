@@ -1,4 +1,3 @@
-
 docco-theme
 ===========
 
@@ -9,7 +8,6 @@ Install
     $ cd to docco/resources
     $ git clone https://github.com/uknick/parallel2
     $ docco test.js --layout parallel2
-
 
 License
 -------
