@@ -3,11 +3,16 @@ docco-theme
 
 A theme for docco based on the parallel theme - with added Table of contents, instead of a dropdown.
 
+
 Install
 -------
     $ cd to docco/resources
     $ git clone https://github.com/uknick/parallel2
     $ docco test.js --layout parallel2
+    
+Demo
+------- 
+![ScreenShot](http://i.imgbox.com/abvovkWm.png)
 
 License
 -------
